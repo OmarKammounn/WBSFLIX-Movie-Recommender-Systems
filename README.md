@@ -1,4 +1,4 @@
-# WBSFLIX Recommender Systems Project
+# WBSFLIX Movie Recommender Systems Project
 
 ## Overview
 
